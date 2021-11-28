@@ -26,7 +26,7 @@ A new dataFrame was created by filtering the dates for 2019-01-01 through 2019-0
 - Average fares increase as we move away from the urban areas since the rides in suburban and rural areas tend to be more spread out.
 - Rural cities shows the highest average fare per ride and average fare per driver because the city  has a lesser number of  drivers compared to Urban and Suburban cities.
 - Rural cities shows  the lowest weekly fares compared to both Suburban and Urban cities.
-- All three city types start to rise to a peak at the end for February. For the Urban city type, that oscillating peak lasts through April, while the other city types wane in the month of March.The Suburban city type starts to peak again at the end of April, while the Rural city type drops off.
+- All three city types start to rise to a peak at the end for February. The Suburban city type starts to peak again at the end of April, while the Rural city type drops off.
 
 # Summary and Recommendations :
 
