@@ -18,6 +18,7 @@ After merging the the 2 datasets for city data and ride data  into a data frame 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/92903447/143781705-7049a52a-a62d-45ea-b0ee-f4dfe256dccd.png">
 
 A new dataFrame was created by filtering the dates for 2019-01-01 through 2019-04-28 and  using the resample method in weekly bins below chart was created to plot the resample DataFrame:
+
 <img width="143" alt="Resample DataFrame by weeks" src="https://user-images.githubusercontent.com/92903447/143790323-b1024e8f-42e5-44da-aaf6-887a3201c362.png">
 
 <img width="310" alt="PyBer_fare_summary" src="https://user-images.githubusercontent.com/92903447/143780399-7a06393d-496c-4408-8611-a12d44edac00.png">
