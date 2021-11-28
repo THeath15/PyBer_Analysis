@@ -33,7 +33,7 @@ A new dataFrame was created by filtering the dates for 2019-01-01 through 2019-0
  - The analysis from gathered dataset shows that there are fewer rides and less drivers in the rural and suburban areas compared to the urban cities. 
  - The dataset has only the first 5 months of the year, 4 months in fact since the month of May only has 1st week on it. It would be interesting to see how the data looks over the remainder of the year. 
 - The city events and how spread out the cities or city distances  could be affecting the number of drivers in both suburban and rural, maybe determining what city events  and activity  in the urban and doing the same with the 2 city types will make a similar pattern, it may help increase the revenue on both suburban and rural cities. 
- - Moving towards the end of April, both Urban and Suburban remain to be at high peak except for rural . It would be interesting if a determination of whats causing the drop on  on Suburban )for example events or city activities in both cities are causing high and low pattern. 
+ - Moving towards the end of April, both Urban and Suburban remain to be at high peak except for rural . It would be interesting if a determination of whats causing the drop on  on Suburban (for example events or city activities/ holidays) in both cities are causing high and low pattern. 
 
 
 
